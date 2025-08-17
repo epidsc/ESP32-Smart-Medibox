@@ -90,6 +90,7 @@ See [(libraries.txt)](https://github.com/epidsc/ESP32-Smart-Medibox/blob/main/Wo
 6. Connect to Wi-Fi and launch dashboard
 
 ### 📸 Screenshot
+https://github.com/epidsc/ESP32-Smart-Medibox/tree/main/Screenshots
 	
 ### 📝 Project Context
 
