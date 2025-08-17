@@ -62,9 +62,6 @@ Smart MediBox helps manage medications by combining:
   - Battery usage stats
   - Alarm & UTC configuration
 
-📌 Import flow from [`dashboard/medibox_dashboard.json`](dashboard/medibox_dashboard.json).
-
-
 
 ## 🛠️ Getting Started
 
