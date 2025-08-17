@@ -85,7 +85,7 @@ See [(libraries.txt)](https://github.com/epidsc/ESP32-Smart-Medibox/blob/main/Wo
 ### Setup
 1. Clone this repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Smart-MediBox.git
+   git clone https://github.com/epidsc/ESP32-Smart-Medibox
 2. Open src/SmartMediBox.ino in Arduino IDE / PlatformIO
 3. Install required libraries
 4. Upload to ESP32
