@@ -80,7 +80,7 @@ Smart MediBox helps manage medications by combining:
 - Li-ion Battery + Charger Module
 
 ### Arduino Libraries
-See [`libraries.txt`](libraries.txt).
+See [(libraries.txt)](https://github.com/epidsc/ESP32-Smart-Medibox/blob/main/Wokwi-source/libraries.txt).
 
 ### Setup
 1. Clone this repository  
