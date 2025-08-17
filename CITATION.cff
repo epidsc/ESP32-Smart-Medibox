@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "ESP32 Medibox: Smart Medicine Reminder and Storage System"
+version: "1.0.0"
+date-released: "2025-08-17"
+authors:
+  - family-names: "Uruthireswaran"
+    given-names: "Sanathanan"
+    orcid: "https://orcid.org/0009-0000-9722-9212"   
+repository-code: "https://github.com/epidsc/ESP32-Smart-Medibox"
+license: "MIT"
+abstract: >
+  This project implements a smart Medibox using ESP32, featuring alarm scheduling,
+  medication reminders, environmental monitoring (temperature, humidity, light),
+  and integration with Node-RED for real-time visualization and control.
